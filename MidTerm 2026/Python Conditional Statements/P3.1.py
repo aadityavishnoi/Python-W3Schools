@@ -1,6 +1,6 @@
 #Program using simple if statement
 
-a = 50
+a = int(input("Enter The Value Of A"))
 b = 50
 
 if (a > b):
